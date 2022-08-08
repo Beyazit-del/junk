@@ -1,0 +1,22 @@
+h1 {
+    color: teal;
+}
+h2 {
+    color: crimson;
+    
+}
+ a {
+    color: steelblue;
+    font-size:large
+
+ }
+
+ body {
+    background-color: palegoldenrod;
+ }
+ p, ol, li {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    font-size: 20px;
+ }
+ 
