@@ -1,22 +1,53 @@
-h1 {
-    color: teal;
+.container {
+   width: 311px;
+   height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;   
 }
-h2 {
-    color: crimson;
-    
+
+
+
+.nav {
+
+  width: 300px;
+  border-width: 2px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+
 }
- a {
-    color: steelblue;
-    font-size:large
 
- }
+.letter-size {
 
- body {
-    background-color: palegoldenrod;
- }
- p, ol, li {
-    font-family: 'Times New Roman', Times, serif;
-    color: darkblue;
-    font-size: 20px;
- }
+  font-size: 15px;
+}
+
+.button {
  
+  
+  float: left;
+  margin: 3px;
+  border: none;
+}
+
+.center{
+ 
+  top: 50%;
+  left: 50%;
+  
+  position: relative;
+  -ms-transform: translate(-100%,-100%);
+  transform: translate(-100%,-100%);
+}
+
+
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+
